@@ -1,9 +1,11 @@
+/* Universal Styling */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Body, Header and Nav Bar Styling */
 body {
     background-color: #d9dcd6;
 }
@@ -49,23 +51,14 @@ p {
     font-size: 16px;
 }
 
+/* Main Background Image */
 #hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg"); alt:"background";
+    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 /* Section */
@@ -90,7 +83,7 @@ section h2 {
     font-size: 20px;
 }
 
-/* aside */
+/* Right Nav Pan: aside styling */
 aside {
     width: 20%;
     height: 100%;
@@ -100,16 +93,6 @@ aside {
     padding: 15px;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
-
-aside {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-aside p, h3 {
-    margin-bottom: 10px;
-    text-align: left;
 }
 
 .aside {
@@ -137,11 +120,22 @@ aside p {
     margin-bottom: 25px;
     text-align: left;
 }
+/* Right Nav Pane: Icon Styling */
 aside img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     max-width: 150px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 
 /* footer */
