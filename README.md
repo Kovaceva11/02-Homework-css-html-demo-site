@@ -9,7 +9,9 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
-> **Adam's Note**: I have refactored the HTML & CSS code to the best of my ability. These changes have corrected the original HTML & CSS files so that the website looks and functions as intended per the original mockup screenshot below. ![This is the original MockUp screenshot for this homework assignment.](./Assets/01-html-css-git-homework-demo.png)
+> **Adam's Note**: I have refactored the HTML & CSS code to the best of my ability. These changes have corrected the original HTML & CSS files so that the website looks and functions as intended per the original mockup screenshot below.
+
+![This is the original MockUp screenshot for this homework assignment.](./Assets/01-html-css-git-homework-demo.png)
 
 ## Acceptance Criteria
 
