@@ -84,7 +84,17 @@ section h2 {
     font-size: 20px;
 }
 
-/* Right Nav Pan: aside styling */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Right Nav Pane styling */
 aside {
     width: 20%;
     height: 100%;
@@ -121,6 +131,7 @@ aside p {
     margin-bottom: 25px;
     text-align: left;
 }
+
 /* Right Nav Pane: Icon Styling */
 aside img {
     display: block;
@@ -129,15 +140,7 @@ aside img {
     max-width: 150px;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 /* footer */
 footer {
