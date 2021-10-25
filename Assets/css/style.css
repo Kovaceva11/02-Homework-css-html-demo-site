@@ -62,38 +62,6 @@ p {
     background-position: center;
 }
 
-/* Section */
-section {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-section img {
-    max-height: 200px;
-}
-
-section h2 {
-    margin-bottom: 20px;
-    font-size: 20px;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 /* Right Nav Pane styling */
 aside {
     width: 20%;
@@ -140,7 +108,37 @@ aside img {
     max-width: 150px;
 }
 
+/* Section */
+section {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
 
+section img {
+    max-height: 200px;
+}
+
+section h2 {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 
 /* footer */
 footer {
