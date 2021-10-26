@@ -5,22 +5,27 @@
 ## Refactored HTML & CSS code
 
 ```
-AS A marketing agency Horiseon wanted a codebase that follows accessibility standards that would ensure their site is optimized for search engines.
+AS A marketing agency Horiseon wanted a codebase that follows 
+accessibility standards that would ensure their site is optimized for search engines.
 ```
 
 ```
-Prior to my refactoring, Horiseon's HTML & CSS code was not formatted or organized correctly. There were various issues with broken links, incorrect element usage and formatting/layout issues. See below for a screenshot of the original broken website landing page below.
+Prior to my refactoring, Horiseon's HTML & CSS code was not formatted or organized correctly. 
+There were various issues with broken links, incorrect element usage and formatting/layout issues. 
+See below for a screenshot of the original broken website landing page below.
 ```
 ```md
-![Broken Horiseon Website Landing Page](./Assets/Broken-Horiseon-Website.png)
+![Broken Webpage](./Assets/images/Broken-Horiseon-Website.png)
 ```
 
 ## List of webpage corrections
 
-> **Adam's Note**: I have refactored the HTML & CSS code. These changes have corrected the original HTML & CSS files so that the website looks and functions as intended per the original mockup screenshot below.
+> **Adam's Note**: I have refactored the HTML & CSS code. 
+These changes have corrected the original HTML & CSS files 
+so that the website looks and functions as intended per the original mockup screenshot below.
 
 ```md
-![This is the original MockUp screenshot for this homework assignment.](./Assets/01-html-css-git-homework-demo.png)
+![Original Mockup.](/Assets/images/01-html-css-git-homework-demo.png)
 ```
 
 ```
@@ -37,8 +42,9 @@ CSS file has been restructured, refactored and labeled appropriately for readabi
 
 >The following image is a screenshot of the newly refactored webpage. You may note that I choose not to change the text color in the "Horiseon" logo in the upper left corner of the website. The original Mockup has the "seo" as the same white color of the logo. I would assume the branding/marketing department of this company intended for the separate color of those letters for it to 'stand-out'. SEO is an acronym for "Search Engine Optimization". Per the content of this website's landing page, I as a developer believe this was Branding/Marketing Department's intended coloration of the Horiseon logo.
 
-```md
-![This is a screenshot of Adam Kovacevich's Refactored Horiseon website for the homework assignment.](./Assets/adam_solved_demosite.png)
+```
+![Refactored Webpage](./Assets/images/adam_solved_demosite.png)
+
 ```
 
 ## Please visit the following link to view and test the newly refactored Horiseon website.
