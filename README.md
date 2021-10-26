@@ -32,7 +32,7 @@ so that the website looks and functions as intended per the original mockup scre
 - Icons & Images now have included alt attributes in the event the webpage does not fully load for consumers. 
 - Title Element has been included and functioning. 
 - All links are now included and functioning.
-- CSS file has been restructured, refactored and labeled appropriately for - readability, accessibility of the webpage.
+- CSS file has been restructured, refactored and labeled appropriately for readability, accessibility of the webpage.
 ```
 
 ## Screenshot of newly refactored Horiseon Website.
@@ -48,5 +48,6 @@ so that the website looks and functions as intended per the original mockup scre
 
 ```
 Horiseon Website: https://kovaceva11.github.io/Horiseon-SEO-Website-Refactor/
+
 My Github Portfolio Repo: https://github.com/Kovaceva11/Horiseon-SEO-Website-Refactor
 ```
