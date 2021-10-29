@@ -62,23 +62,13 @@ p {
     background-position: center;
 }
 
-/* Right Nav Pane Styling */
-aside {
-    width: 20%;
-    height: 100%;
-    clear: both;
-    float: right;
-    margin-right: 20px;
-    padding: 15px;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
+/* Right Nav Pane Styling - Removed duplicate aside formatting/styling, separated h3 and p, centered h3, left aligned p*/
 
 .aside {
     width: 20%;
     height: 100%;
     clear: both;
-    float: inline-end;
+    float: right;
     margin-right: 20px;
     padding: 15px;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
@@ -100,15 +90,14 @@ aside p {
     text-align: left;
 }
 
-/* Right Nav Pane Icon Styling */
+/* Right Nav Pane Icon added display block, added margins */
 aside img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     max-width: 150px;
 }
 
-/* Section */
+/* Section added display inline-block, added bold to h2*/
 section {
     width: 75%;
     display: inline-block;
